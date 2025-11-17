@@ -597,10 +597,6 @@ college-canteen-manager/
 - Multi-canteen support
 - Rating and review system
 
-## 📝 License
-
-MIT License
-
 ## 👨‍💻 Developer
 
 Developed as a College Canteen Management System project demonstrating full-stack development with MERN stack, real-time communication, and database management concepts.
