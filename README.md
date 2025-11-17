@@ -394,7 +394,7 @@ npm install
 Edit `.env` file:
 ```
 PORT=5000
-MONGO_URI=mongodb+srv://ashutoshnarukamongodb:YOUR_PASSWORD@cluster0.scapknn.mongodb.net/canteen?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://ashutoshnarukamongodb:ashutoshnaruka1234@cluster0.scapknn.mongodb.net/canteen?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=your_jwt_secret_key_change_this_in_production
 JWT_REFRESH_SECRET=your_jwt_refresh_secret_key_change_this
 JWT_EXPIRE=1h
@@ -603,4 +603,3 @@ Developed as a College Canteen Management System project demonstrating full-stac
 
 ---
 
-**Note**: Replace `<db_password>` in MONGO_URI with your actual MongoDB password before running the application.
